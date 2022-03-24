@@ -24,7 +24,7 @@ SUBJECTS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Linear algebra 1 (PDF - 1.7MB)]({{< baseurl >}}/resources/mit10_34f15_lec01)
+[Linear algebra 1 (PDF - 1.7MB)]({{< baseurl >}}/resources/mit10_34f15_lec01)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -33,7 +33,7 @@ SUBJECTS
 2
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Linear algebra 2 (PDF - 1.4MB)]({{< baseurl >}}/resources/mit10_34f15_lec02)
+[Linear algebra 2 (PDF - 1.4MB)]({{< baseurl >}}/resources/mit10_34f15_lec02)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -42,7 +42,7 @@ SUBJECTS
 3
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Linear algebra 3 (PDF - 1.3MB)]({{< baseurl >}}/resources/mit10_34f15_lec03)
+[Linear algebra 3 (PDF - 1.3MB)]({{< baseurl >}}/resources/mit10_34f15_lec03)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -60,7 +60,7 @@ SUBJECTS
 5
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Linear algebra 5 (PDF - 1.6MB)]({{< baseurl >}}/resources/mit10_34f15_lec05)
+[Linear algebra 5 (PDF - 1.6MB)]({{< baseurl >}}/resources/mit10_34f15_lec05)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -69,7 +69,7 @@ SUBJECTS
 6
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Linear algebra 6 (PDF - 1.6MB)]({{< baseurl >}}/resources/mit10_34f15_lec06)
+[Linear algebra 6 (PDF - 1.6MB)]({{< baseurl >}}/resources/mit10_34f15_lec06)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -87,7 +87,7 @@ SUBJECTS
 8
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Systems of nonlinear equations 2 (PDF - 1.5MB)]({{< baseurl >}}/resources/mit10_34f15_lec08)
+[Systems of nonlinear equations 2 (PDF - 1.5MB)]({{< baseurl >}}/resources/mit10_34f15_lec08)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -132,7 +132,7 @@ SUBJECTS
 13
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[ODE-IVP and numerical integration 1 (PDF - 1.7MB)]({{< baseurl >}}/resources/mit10_34f15_lec13)
+[ODE-IVP and numerical integration 1 (PDF - 1.7MB)]({{< baseurl >}}/resources/mit10_34f15_lec13)
 {{< tdclose >}}
 
 {{< trclose >}}

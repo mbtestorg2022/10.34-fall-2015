@@ -139,7 +139,7 @@ Reading for problem 3: Bao, Jie, and Moungi G. Bawendi. "[A Colloidal Quantum Do
 5
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Homework 5 on Differential-algebraic Equations (PDF)]({{< baseurl >}}/resources/mit10_34f15_homework5_v1) (Max points = 20)
+[Homework 5 on Differential-algebraic Equations (PDF)]({{< baseurl >}}/resources/mit10_34f15_homework5_v1) (Max points = 20)
 {{< tdclose >}}
 {{< tdopen >}}
 [Homework 5 P1 Code (M)]({{< baseurl >}}/resources/foguth_hw5_p1)
